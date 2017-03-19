@@ -1,0 +1,88 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      color: #ffffff;
+      background: <img src = "picsforprojects/fixedw_large_4x.jpg" >;
+      background-color: #1e9458;
+      height: 100%;
+    }
+    body {
+      align-content: center;
+       height: 100%;
+       width: 100%;
+       margin: 0 auto;
+    }
+
+    header {
+        padding:25px;
+        border: 5px solid #000000;
+        font-size: ;
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+
+    }
+    nav {
+        line-height:;
+        background-color:;
+        width:25%;
+        display: inline-block;
+        vertical-align: top;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: ;
+    }
+    div {
+      width: 100%
+        }
+        div article{
+          border: 5px solid #000000;
+          padding: 2%;
+        }
+        div img{
+          height: 300px;
+          width: 500px;
+        }
+    section {
+      padding: 2%;
+        width: 76%;
+        display: block;
+    }
+    aside {
+      color: #ffffff;
+      width: 10%;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+      float:right;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
+    }
+
+  h1 {
+      text-align: center;
+    }
+
+    header h2{
+      text-align: center;
+      }
+ header p {
+   text-align: center;
+  }
+  nav a{
+    color: #fff;
+  }
